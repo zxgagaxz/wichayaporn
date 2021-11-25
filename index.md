@@ -1,8 +1,35 @@
-## Welcome to GitHub Pages
+# Wichayaporn Thanasitthichok
+## PERSONAL INFORMATION 
+Residential Address : 50/20 Village No.20, Bang Phli Yai Sub-district, Bang Phli District, Samut Prakan, 10540
 
-You can use the [editor on GitHub](https://github.com/zxgagaxz/wichayaporn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Mobile : 063-273-7828
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email : wichayaporn.thk@gmail.com
+
+Date of Birth : 31 December 2002
+
+Nationality : Thai
+
+Age : 18
+
+
+Interest and Activities : Listening to music, visiting new places and enjoying  badminton
+
+## EDUCATION HISTORY
+May 2010 – Aug 2012                 Masters in  Accounting,University of ABC,  Bangkok THAILAND
+
+May 2006 – Feb 2010                 Bachelor of Science – Accounting, University of ABC, Bangkok THAILAND
+
+May 2000 – Feb 2006                High School Bangpleeratbamrung  , AAA High School, Bangkok THAILAND
+
+## activity
+
+Here's our logo (hover to see the title text):
+
+Student Council:
+![image](https://img.in.th/image/WirrfA)
+
+
 
 ### Markdown
 
