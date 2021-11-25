@@ -24,11 +24,12 @@ May 2000 – Feb 2006                High School Bangpleeratbamrung  , AAA High 
 
 ## activity
 
-Here's our logo (hover to see the title text):
-
 Student Council:
 ![image](https://img.in.th/images/6b8e667f1e69d85a9a207c3c8244e075.jpg)
 
+Sports days:
+![image](https://img.in.th/images/37aba59df17e2a50694b971cce6ce72e.jpg)
+![image](https://img.in.th/images/67e081bb14679c08f6bb4562a9426b6b.jpg)
 
 
 ### Markdown
